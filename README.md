@@ -12,7 +12,7 @@ Abaixo está a explicação do sistema:
 
 db.py: Conexão com o banco de dados Dbeaver.
 
-evento_musical.py: É o sistema com login e menu.
+eventm.py: É o sistema com login e menu.
 
 imports.py: É onde fica os FROM IMPORTS para o menu funcionar.
 
@@ -34,4 +34,5 @@ ingressos.py: É onde mostra os ingressos.
 loginadm.py: É onde ocorre o login do sistema.
 
 participantes.py: É onde mostra os participantes e também onde edita eles.
+
 
