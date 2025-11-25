@@ -3,7 +3,7 @@ TRABALHO PARA AV3 2° período S.I
 
 ALUNOS: João Gabriel Cavalcante de Oliveira Santos e Thiago Minervino Pereira Dos Santos De Araújo
 2° período / Turma B
-Matérias: Banco de dados / LAB de PROGAMAÇÃO II
+Matérias: Banco de dados / LAB de PROGRAMAÇÃO II
 
 ...
 
@@ -34,5 +34,6 @@ ingressos.py: É onde mostra os ingressos.
 loginadm.py: É onde ocorre o login do sistema.
 
 participantes.py: É onde mostra os participantes e também onde edita eles.
+
 
 
