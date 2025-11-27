@@ -5,8 +5,8 @@ def criar_conexao():
     try:
         conn = psycopg2.connect(
             dbname='postgres',
-            user='postgres',
-            password='peteca22',
+            user='usuario',
+            password='senha',
             host='localhost',
             port='5432'
         )
@@ -16,3 +16,4 @@ def criar_conexao():
     except Exception as e:
         print(f"Erro ao conectar com o banco de dados: {e}")
         return None
+
